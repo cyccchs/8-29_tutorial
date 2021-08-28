@@ -22,6 +22,9 @@
     ['', 'C:\\Users\\chs\\Documents\\Python\\doc', 'C:\\Python36\\Lib\\idlelib','C:\\Python36\\python36.zip',  'C:\\Python36\\DLLs', 'C:\\Python36\\lib', 'C:\\Python36', 'C:\\Python36\\lib\\site-packages']
     
 ### Package
- 
+#### See pkg_example_1 & pkg_example_2
+
+
+
 ##### https://realpython.com/python-modules-packages/ for more details...
 
