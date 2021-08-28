@@ -29,8 +29,10 @@
     * git branch: show branch info
     * git log: show log of commit and HEAD
     * git status: show status of current working tree
+#### https://git-scm.com/doc for more details...
     
 #### CMake (build tool)
     sudo apt install cmake-curses-gui
 #### see example in "cmake_template" folder
+#### https://gitlab.com/cyccchs/cmake_template
     
