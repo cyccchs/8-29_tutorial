@@ -1,10 +1,11 @@
 # 8-29_tutorial
 ## Install ubuntu
 ##> Useful tools for Ubuntu
->>Vim/gedit
->>Tmux
->>Git
->>Cmake
+>>vim/gedit
+>>tmux
+>>git
+>>CMake
+
 ## >File type of linux
 >>Sh
 >>Deb/rpm
