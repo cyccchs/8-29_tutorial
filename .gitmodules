@@ -1,0 +1,6 @@
+[submodule "1_Useful_tools/--force"]
+	path = 1_Useful_tools/--force
+	url = https://gitlab.com/cyccchs/cmake_template
+[submodule "1_Useful_tools/cmake_template"]
+	path = 1_Useful_tools/cmake_template
+	url = https://gitlab.com/cyccchs/cmake_template
