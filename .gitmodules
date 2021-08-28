@@ -1,0 +1,3 @@
+[submodule "1_Useful_tools/cmake_template"]
+	path = 1_Useful_tools/cmake_template
+	url = git@gitlab.com:cyccchs/cmake_template.git
