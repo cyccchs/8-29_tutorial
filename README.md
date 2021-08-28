@@ -6,7 +6,7 @@
 >>git
 >>CMake
 
-## >File type of linux
+## > File type of linux
 >>Sh
 >>Deb/rpm
 >>Tar/gz/tar.gz
