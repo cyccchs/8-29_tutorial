@@ -14,6 +14,6 @@
   * module
   * import
   * package
+## Install Anaconda
 ## Install CUDA
-## Machine learning IDE
-## Brief intro to RL
+## Brief intro to project in progress
