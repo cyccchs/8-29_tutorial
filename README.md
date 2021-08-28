@@ -16,4 +16,4 @@
   * package
 ## Install Anaconda
 ## Install CUDA
-## Brief intro to project in progress
+## Project in progress
