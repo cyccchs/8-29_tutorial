@@ -8,8 +8,8 @@
 
 ## File type of linux
   * sh
-  * Deb/rpm
-  * Tar/gz/tar.gz
+  * deb/rpm
+  * tar/gz/tar.gz
 ## Python in Ubuntu
 ## Install CUDA
 ## Machine learning IDE
