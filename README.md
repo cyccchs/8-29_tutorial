@@ -12,7 +12,7 @@
   * tar/gz/tar.gz
 ## Python in Ubuntu
   * module
-  * imort
+  * import
   * package
 ## Install CUDA
 ## Machine learning IDE
