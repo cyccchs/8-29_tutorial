@@ -10,7 +10,7 @@
   * sh
   * deb/rpm
   * tar/gz/tar.gz
-## Python in Ubuntu
+## Python architecture
   * module
   * import
   * package
