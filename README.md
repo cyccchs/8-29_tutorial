@@ -1,7 +1,7 @@
 # 8-29_tutorial
 ## Install ubuntu
 ## Useful tools for Ubuntu
-    * vim/gedit
+  * vim/gedit
     * tmux
     * git
     * CMake
