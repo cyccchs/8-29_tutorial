@@ -1,16 +1,16 @@
 # 8-29_tutorial
 ## Install ubuntu
-##> Useful tools for Ubuntu
->>vim/gedit
->>tmux
->>git
->>CMake
+## Useful tools for Ubuntu
+  * vim/gedit
+  * tmux
+  * git
+  * CMake
 
-## > File type of linux
->>Sh
->>Deb/rpm
->>Tar/gz/tar.gz
-Python in Ubuntu
-Install CUDA
-Machine learning IDE
-Brief intro to RL
+## File type of linux
+  * sh
+  * Deb/rpm
+  * Tar/gz/tar.gz
+## Python in Ubuntu
+## Install CUDA
+## Machine learning IDE
+## Brief intro to RL
